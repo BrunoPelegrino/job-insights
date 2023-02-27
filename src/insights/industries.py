@@ -5,7 +5,7 @@ def get_unique_industries(path: str) -> List[str]:
     """Checks all different industries and returns a list of them
 
     Must call `read`
-
+ 
     Parameters
     ----------
     path : str
